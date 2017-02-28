@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+data
+telegram-history-dump
+output
